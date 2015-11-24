@@ -1,0 +1,4 @@
+main: mainPackage.MainClass
+name: GunGaleOnline
+version: .01
+depend: [Factions]
